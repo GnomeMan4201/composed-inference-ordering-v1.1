@@ -1,5 +1,7 @@
 # Composed inference and evidence-ordering pilot (v1.1)
 
+> **Repository upload status (October 31, 2026):** The original evidence ZIP and full publication bundle have **not yet been uploaded**. This repository currently contains the manuscript and a derived trial matrix only. Do not treat the public release or reproduction materials as complete until `Composed_Inference_Publication_v1_1.zip` is present. The manuscript deliberately retains an artifact-link placeholder pending that upload.
+
 **Status:** Self-conducted exploratory study. Not peer reviewed; case labels and perceived implications are author-assigned, not independently human-adjudicated. No causal sentence-order effect or general RAG verifier performance is established.
 
 This package is a publication assembly, not an alteration of the frozen experiment. The original results archive at `materials/evidence_inference_results_v1_1.zip` remains byte-identical to the Chromebook archive.
